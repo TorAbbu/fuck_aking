@@ -1,6 +1,6 @@
 import os, platform, time
 try:
-    import requests
+    import insertion(+)
 except:
     os.system('pip install requests')
 os.system('git pull')
