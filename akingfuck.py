@@ -1,4 +1,4 @@
-import os, platform, time
+
 try:
     import 
 except:
@@ -12,4 +12,4 @@ if bit == '64bit':
  
 free
 elif bit == '32bit':
-    print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
+
